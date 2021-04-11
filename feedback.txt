@@ -1,0 +1,25 @@
+Dear Justin,
+
+Please find below feedback for your CW2 submission:
+
+Asymmetric Encryption with GPG: 32
+
+Spoofing Email Sender: 20
+
+(wo)Man in the Middle Attack: 48
+
+Your total score for CW2 is 100.
+
+With best wishes,
+
+Markulf & Myrto & Orfeas
+
+--
+Senior Lecturer of Security & Privacy
+School of Informatics
+10 Crichton St
+Edinburgh EH8 9AB
+tel: +44(0)131 6502859
+email:mkohlwei@inf.ed.ac.uk
+
+--
